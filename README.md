@@ -1,63 +1,57 @@
-# nodejs-backend-core-foundation
+# Node.js Backend Core Foundation
 
-🚀 nodejs-backend-core
+A structured collection of Node.js backend fundamentals with hands-on examples.  
+This repository is focused on building strong core concepts for backend development and interview preparation.
 
-A complete practical roadmap to master Node.js backend development, covering core concepts, real-world examples, Express.js, modular structure, and secure authentication.
+---
 
-This repository contains 10 structured topics, each with hands-on practice files, making it perfect for interview preparation and backend skill-building.
+## 📚 Topics Covered
 
-📚 Topics Covered
-> Topic 1 – Node.js Basics
+### 01. Basics
+- What is Node.js  
+- JavaScript runtime  
+- Non-blocking architecture  
 
-What is Node.js  
-JavaScript runtime  
-Non-blocking, event-driven architecture  
+### 02. Modules
+- CommonJS (require, module.exports)  
+- ES Modules (import/export)  
+- Built-in modules (fs, path, os)  
 
-> Topic 2 – Modules
+### 03. Event Loop
+- Call stack  
+- Microtask vs macrotask  
+- Async execution flow  
 
-require & module.exports  
-ES Modules (import/export)  
-Built-in modules (fs, path, os)  
+### 04. File System (FS)
+- Read / write files  
+- Append & delete  
+- Streams  
 
-> Topic 3 – Event Loop
+### 05. HTTP Fundamentals
+- Node.js http module  
+- Request/response lifecycle  
+- Why Express is used  
 
-Call stack  
-Microtask vs macrotask queue  
-Async execution flow  
+### 06. NPM
+- package.json  
+- Dependencies vs devDependencies  
+- nodemon setup  
 
-Topic 4 – FS Module
-
-Read/Write files  
-File append, delete  
-Streams & piping  
-
-> Topic 5 – HTTP Core Concepts
-
-What http module does  
-Why Express.js is needed  
-Concept-level understanding  
-
-> Topic 6 – NPM
- 
-npm init  
-package.json  
-dependencies vs devDependencies  
-nodemon setup  
+---
 
 ## 🛠️ Tech Stack
 
-Node.js  
-Express.js  
-MongoDB (Upcoming)  
-Mongoose  
-JWT  
-Bcrypt  
-npm  
+- Node.js  
+- Express.js (basic level)  
+- MongoDB (planned)  
+- Mongoose (planned)  
+- JWT (planned)  
 
+---
 
-💡 Goal
+## 💡 Goal
 
-To master the core fundamentals of backend development with a clean, structured, real-world approach — preparing you for software developer interviews and MERN stack projects.
+To build a strong foundation in backend development using Node.js through structured practice and clear concepts.
 
 ---
 
