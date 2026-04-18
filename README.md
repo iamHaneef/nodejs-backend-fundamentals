@@ -54,10 +54,3 @@ This repository is focused on building strong core concepts for backend developm
 To build a strong foundation in backend development using Node.js through structured practice and clear concepts.
 
 ---
-
-## 👨‍💻 Author
-
-Muhamad Haneef J  
-Full Stack Learner  
-GitHub: iamHaneef
-
